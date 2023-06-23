@@ -1,2 +1,2 @@
 # ChatApp
-Building a real-time ChatApp using Rust!
+Building a real-time ChatApp using Rust with asynchronous code!
